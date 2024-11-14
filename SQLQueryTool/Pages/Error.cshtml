@@ -1,0 +1,16 @@
+﻿@page
+@model ErrorModel
+@{
+    ViewData["Title"] = "Chyba";
+}
+
+<h1 class="text-danger">Chyba.</h1>
+<h2 class="text-danger">Počas spracovania vašej požiadavky došlo k chybe.</h2>
+
+@if (Model.ShowRequestId)
+{
+    <p>
+        <strong>ID požiadavky:</strong> <code>@Model.RequestId</code>
+    </p>
+}
+
