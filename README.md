@@ -34,15 +34,15 @@ git clone https://github.com/JahyLuky/SQLQueryTool.git
 #### In `log4net.config`
 - **`file value`**: This element is used to specify the location and name of the log file where the log entries will be written.
 
-3. Build the application
+### 3. Build the application
 ```bash
 dotnet build
 ```
-4. Run the application
+### 4. Run the application
 ```bash
 dotnet run
 ```
-5. View the queries
+### 5. View the queries
 - **`Go to`**: ``http://<your-ip>:<your-port>/?layoutid=<your-query>``
 
 
