@@ -22,7 +22,7 @@
 ### 1. Clone the Repository
 Clone or download the repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/SQLQueryTool.git
+git clone https://github.com/JahyLuky/SQLQueryTool.git
 ```
 
 ### 2. App Configuration
