@@ -43,7 +43,7 @@ dotnet build
 dotnet run
 ```
 ### 5. View the queries
-- **`Go to`**: ``http://<your-ip>:<your-port>/?layoutid=<your-query>``
+- Go to: ``http://<your-ip>:<your-port>/?layoutid=<your-query>``
 
 
 ---
