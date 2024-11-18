@@ -44,13 +44,3 @@ dotnet run
 ```
 ### 5. View the queries
 - Go to: ``http://<your-ip>:<your-port>/?layoutid=<your-query>``
-
-
----
-
-### Summary of Changes:
-1. Organized the information into clear sections: **Requirements**, **Installation**, **App Configuration**, **Build and Run**, and **Viewing the Tool**.
-2. Added example code snippets for `appsettings.json` and `log4net.config` to clarify how to configure them.
-3. Simplified and clarified the instructions for building, running, and using the app.
-
-Feel free to adjust any paths, values, or details to match your specific project.
